@@ -1,5 +1,5 @@
 # OnlineShop
-Online shop PHP CodeIgniter 3
+Online Shop PHP CodeIgniter 3
 
 - Written in PHP CodeIgniter 3 framework 
 - Login system: create a new user and delete user
